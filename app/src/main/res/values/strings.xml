@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Facestagram</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Welcome, dear User!</string>
+    <string name="slide_1_desc">See what this app can do for you.</string>
+
+    <string name="slide_2_title">Facebook</string>
+    <string name="slide_2_desc"> Connect with friends, family and other people you know</string>
+
+    <string name="slide_3_title">Instagram</string>
+    <string name="slide_3_desc">Discovering — and telling — stories from around the world.</string>
+
+    <string name="slide_4_title">Let\'s Start!</string>
+    <string name="slide_4_desc">Facebook + Instagram </string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+    <string name="title_activity_main">Facestagram</string>
+    <string name="action_settings">coming soon baby!</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
